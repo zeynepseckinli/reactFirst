@@ -1,0 +1,4 @@
+1-npm create vite@latest
+2-enter ile girip react seçip oradan javascript + swc seçiyoruz
+3-npm i
+4-npm run dev > başlatmak için
