@@ -2,10 +2,7 @@ import React, { useEffect, useState } from 'react';
 import {
   Card,
   CardContent,
-  Divider,
   Grid,
-  TextField,
-  Typography,
 } from '@mui/material';
 
 export default function Home() {
@@ -15,9 +12,7 @@ export default function Home() {
           <CardContent>
             <Grid container spacing={2}>
               
-            <Grid item xs={6}>
-              <h2>home yeni gridli Page</h2>
-              </Grid>
+          
               <Grid item xs={6}>
               <h2>home yeni gridli Page</h2>
               </Grid>
